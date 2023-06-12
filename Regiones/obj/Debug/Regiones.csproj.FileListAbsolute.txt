@@ -1,0 +1,11 @@
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.exe.config
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.exe
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.pdb
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.AssemblyReference.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.SuggestedBindingRedirects.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.Form1.resources
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.Properties.Resources.resources
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.GenerateResource.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.CoreCompileInputs.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.exe
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.pdb
