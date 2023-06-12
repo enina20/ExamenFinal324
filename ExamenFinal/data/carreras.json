@@ -1,0 +1,40 @@
+{
+  "carreras": [
+    {
+      "id": 1,
+      "nombre": "Carrera de Informática",
+      "descripcion": "La carrera de informática se enfoca en el desarrollo de software, sistemas de información y tecnologías de la información.",
+      "imagen": "http://instituto.informatica.edu.bo/static/academic/img/logocarrera.jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "Carrera de Matemáticas",
+      "descripcion": "La carrera de matemáticas se enfoca en el estudio de las propiedades y relaciones de los números, figuras geométricas, álgebra y cálculo.",
+      "imagen": "http://cmat.umsa.bo/media/eventos/logocarrera.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Carrera de Estadística",
+      "descripcion": "La carrera de estadística se enfoca en la recopilación, análisis e interpretación de datos para la toma de decisiones.",
+      "imagen": "images/estadistica.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Carrera de Biología",
+      "descripcion": "La carrera de biología se enfoca en el estudio de los seres vivos y su relación con el medio ambiente.",
+      "imagen": "images/biologia.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Carrera de Física",
+      "descripcion": "La carrera de física se enfoca en el estudio de las leyes fundamentales del universo, como la energía, el movimiento y la fuerza.",
+      "imagen": "images/fisica.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Carrera de Química",
+      "descripcion": "La carrera de química se enfoca en el estudio de la estructura, composición y propiedades de la materia.",
+      "imagen": "https://cvcienciasquimicas.umsa.bo/pluginfile.php/3777/block_html/content/LOGOcsquimicas.png"
+    }
+  ]
+}
